@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "name": "shared",
+      "path": "./shared"
+    },
+    {
+      "name": "backend",
+      "path": "./apps/backend"
+    },
+    {
+      "web": "web",
+      "path": "./apps/web"
+    },
+    {
+      "name": "root",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "deno.enable": false
+  }
+}

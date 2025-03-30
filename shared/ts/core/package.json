@@ -1,0 +1,17 @@
+{
+  "name": "@my-org/core",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "echo \"run your test runner here...\""
+  },
+  "dependencies": {
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
